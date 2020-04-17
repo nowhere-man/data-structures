@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+*.suo
+*.db
+*.opendb
+/.vs/ProjectSettings.json
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
